@@ -1,0 +1,14 @@
+Found 12 hbonds.
+donor 		 acceptor 	 occupancy
+SER118-Main-N 	 L02643-Side-N4 	 26.80%
+ARG145-Side-NE 	 L02643-Side-N1 	 44.40%
+L02643-Side-N6 	 GLU137-Side-OE2 	 40.60%
+L02643-Side-N6 	 GLU137-Side-OE1 	 78.80%
+ARG139-Side-NH2 	 L02643-Side-N1 	 0.20%
+ARG145-Side-NH2 	 L02643-Side-N3 	 2.40%
+ARG145-Side-NE 	 L02643-Side-N3 	 1.00%
+SER118-Main-N 	 L02643-Side-O1 	 1.40%
+VAL117-Main-N 	 L02643-Side-N4 	 1.40%
+VAL117-Main-N 	 L02643-Side-O1 	 0.60%
+ARG145-Main-N 	 L02643-Side-N1 	 1.20%
+VAL162-Main-N 	 L02643-Side-N5 	 0.20%
